@@ -376,6 +376,7 @@ def ex21():
 # Ex 22 - What Do You Know So Far?
 def ex22():
 	pass
+	# There is nothing in this exercise 
 
 # Ex 23 - Read Some Code
 def ex23():
