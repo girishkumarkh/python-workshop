@@ -8,9 +8,3 @@ weight = raw_input()
 
 print "So, you're %r old, %r tall and %r heavy." % (
     age, height, weight)
-
-a = "girish"
-b = "Midhun"
-
-print a,
-print b
