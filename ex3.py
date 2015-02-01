@@ -1,4 +1,4 @@
-# Exercise 3: Numbers and Math
+# Exercise 3: Numbers and Math (PEMDAS)
 print "I will now count my chickens:"
 
 print "Hens", 25 + 30 / 6
