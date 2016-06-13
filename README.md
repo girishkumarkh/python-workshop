@@ -8,4 +8,5 @@ extraction from http://learnpythonthehardway.org/book/
 4. [ex4.py](exercises/ex4.py)
 5. [ex5.py](exercises/ex5.py)
 6. [ex6.py](exercises/ex6.py)
-7. ex7.py
+7. [ex7.py](exercises/ex7.py)
+8. ex8.py
